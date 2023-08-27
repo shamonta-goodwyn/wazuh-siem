@@ -41,10 +41,16 @@ Go to Linode and make a free account. Free account will give you $100 credit for
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SsVlBIG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/W8bLh5n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/zskAsXH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that you've created the linode. You are going to open your terminal and sign into the ssh shown. After in you are going to put in the command ls -al. input the next command cat .deployment-secrets.txt and look for admin username and password. copy and paste that information into a text format. You will need it later. You will go back to the linode dashboard and grab the reverse DNS from the network tab at the bottom. 
 </p>
 <br />
 
@@ -52,7 +58,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+With the reverse DNS you will copy and paste it into a new tab using https://*insert reverse dns*. Insert the Admin user and password from the terminal to get in. 
 </p>
 <br />
 
