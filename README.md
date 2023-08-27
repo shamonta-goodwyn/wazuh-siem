@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source SIE
 <img src="https://i.imgur.com/dR9NKJS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Linode and make a free account. Free account will give you $100 credit for 60 days. Once that is created you will then go to create Linode. Go to marketplace. Search and select Wazuh. After selected you will configure the linode. Use Ubuntu 22.04 LTS. As for plan select anywhere from 2GB to 8GB I run it with 2GB just fine. 
+Go to Linode and make a free account. Free account will give you $100 credit for 60 days. Once that is created you will then go to create Linode. Go to marketplace. Search and select Wazuh. After selected you will configure the linode. Use Ubuntu 20.xx LTS. As for plan select anywhere from 2GB to 8GB I run it with 4GB just fine. 
 </p>
 <br />
 
@@ -55,23 +55,21 @@ Now that you've created the linode. You are going to open your terminal and sign
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rnk0mnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VdEBMhb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hbNidJT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-With the reverse DNS you will copy and paste it into a new tab using https://*insert reverse dns*. Insert the Admin user and password from the terminal to get in. 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lPUfinP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/nlzCpYi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+With the reverse DNS you will copy and paste it into a new tab using https://*insert reverse dns*. Insert the Admin user and password from the terminal to get in. Once in you need to add the wazuh agent to the vm. Go to add agents. Input the OS specs you are using. Your reverse dns. Select Default group. Then copy and paste the code generated into your terminal that is root to your ubuntu linode. Once it is completed you will need to start the service. You will copy the very last code line into your terminal. Refresh the wazuh website and you will see your agent. 
 </p>
 <br />
