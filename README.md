@@ -1,5 +1,5 @@
 <p align="center">
-<img src="jw8VmsV - Imgur.jpg" alt="wazuh logo"/>
+<img src="https://i.imgur.com/jw8VmsV.jpg" alt="wazuh logo"/>
 </p>
 
 <h1>Wazuh - Prerequisites and Installation</h1>
