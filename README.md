@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source SIE
 <img src="https://i.imgur.com/dR9NKJS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Linode and make a free account. Free account will give you $100 credit for 60 days. Once that is created you will then go to create Linode. Go to marketplace. Search and select Wazuh. After selected you will configure the linode. Use Ubuntu 20.xx LTS. As for plan select anywhere from 2GB to 8GB I run it with 4GB just fine. 
+Go to Linode and make a free account. Free account will give you $100 credit for 60 days. Once that is created you will then go to create Linode. Go to marketplace. Search and select Wazuh. After selected you will configure the linode. Use Ubuntu 22.04 LTS. As for plan select anywhere from 2GB to 8GB I run it with 4GB just fine. 
 </p>
 <br />
 
