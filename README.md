@@ -1,5 +1,5 @@
 <p align="center">
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/DlVelMS" data-context="false" ><a href="//imgur.com/a/DlVelMS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="wazuh logo"/>
+<img src="jw8VmsV - Imgur.jpg" alt="wazuh logo"/>
 </p>
 
 <h1>Wazuh - Prerequisites and Installation</h1>
