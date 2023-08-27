@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source SIE
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: you need this FREE CyberSecurity tool (https://www.youtube.com/watch?v=3CaG2GI1kn0)
+- ### [YouTube: you need this FREE CyberSecurity tool](https://www.youtube.com/watch?v=3CaG2GI1kn0)
 
 <h2>Environments and Technologies Used</h2>
 
