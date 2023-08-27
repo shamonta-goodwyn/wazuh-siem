@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source SIE
 
 <h2>List of Prerequisites</h2>
 
-- Linode
+- Linode Account
 
 <h2>Installation Steps</h2>
 
